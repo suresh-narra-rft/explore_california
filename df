@@ -1,0 +1,22 @@
+[1mdiff --git a/contact.html b/contact.html[m
+[1mindex 80d262c..e216a1d 100644[m
+[1m--- a/contact.html[m
+[1m+++ b/contact.html[m
+[36m@@ -71,7 +71,7 @@[m
+            <p>If you're on this page, we're guessing you've got something to say! Drop us a line, and be sure to sign up for our newsletter. If you're looking for our seasonal tours,  let us know when you're thinking of taking a trip. Not only will we get back to you with our website exclusive tours (we don't publish these for everyone!), but we'll be sure to throw in some cool discounts and tour extras as well.</p>[m
+   [m
+            <h2>Support options</h2>[m
+            <p>If you're currently on a tour and need support, please visit our <a href="support.html">support</a> page. If none of these options are right for you and you still need to get in touch with us, feel free to call us at<span class="phone"> <strong>866.555.4310</strong>. Please note that this is not the support line, for support you could call [31m</span><strong>866.555.4315</strong>.[m[32m</span><strong>866.555.4314</strong>.[m Thanks for getting in touch!</p>
+          </div>[m
+   [m
+          <form id="frmContact" name="frmContact" method="post" action="contact_process.html">[m
+[36m@@ -270,7 +270,7 @@[m
+          <h2>Explore California</h2>[m
+          <p>5605 Nota Street<br />[m
+            Ventura, CA 93003</p>[m
+          <p>866.555.4310<br [31m/>866.555.4315[m[32m/>866.555.4314[m <em>(24 hour support)</em></p>
+        </div>[m
+      </div>[m
+    </div>[m
+warning: LF will be replaced by CRLF in contact.html.
+The file will have its original line endings in your working directory.
